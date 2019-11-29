@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>me.hireny.haven</groupId>
+    <artifactId>haven-parent</artifactId>
+    <version>0.0.1</version>
+    <modules>
+        <module>haven-core</module>
+        <module>haven-commons</module>
+        <module>haven-example</module>
+    </modules>
+    <packaging>pom</packaging>
+    <name>Haven: Haven Parent for Java</name>
+    <description>Haven: HTTP/WEB服务器</description>
+
+
+</project>
